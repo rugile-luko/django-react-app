@@ -13,7 +13,7 @@ After that you can create a virtual environment, activate it and install the req
 
 ```
 python -m venv env
-source env/Scripts/activate.bat             // for Windows users
+env/Scripts/activate.bat                    // for Windows users
 source env/bin/activate                     // for OS X users
 python -m pip install -r requirements.txt
 ```
